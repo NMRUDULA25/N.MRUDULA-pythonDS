@@ -1,0 +1,6 @@
+name,age,dept,salary,joiningdate,bonus,joiningyear,seniority
+a,24,IT,15000,2020-06-12,1500.0,2020,junior
+e,13,CSE,16000,2014-09-09,1600.0,2014,junior
+b,35,CSE,25000,2021-03-07,2500.0,2021,senior
+c,15,IOT,34000,2019-06-05,3400.0,2019,junior
+d,43,IT,45000,2018-08-23,4500.0,2018,senior
